@@ -1,8 +1,3 @@
-# To Do List
-# 判定盘符及文件是否存在
-# 判断info是标注还是笔记
-# 书籍信息提取
-# 内容拼接
 import shutil # 文件复制
 
 # kindle 盘符，我电脑上是E盘
